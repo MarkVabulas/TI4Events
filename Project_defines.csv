@@ -1,0 +1,43 @@
+Define,Value
+CommodityFront,Commodity_Front.png
+CommodityBack,Commodity_Back.png
+TradeGoodFront,TradeGood_Front.png
+TradeGoodBack,TradeGood_Back.png
+EventFront,Event_Front.png
+EventBack,Event_Back.png
+Expansion,Expansion.png
+ManualFront,Manual_Front.png
+ManualBack,Manual_Back.png
+CommandCounter,"{1} Command Token#(if {1} != 1 then s)#"
+CommandCounterAdj,"{1} {2} Command Token#(if {1} != 1 then s)#"
+ActionCard,"{1} Action Card#(if {1} != 1 then s)#"
+TradeGoodCard,"{1} Trade Good Card#(if {1} != 1 then s)#"
+TradeGoodAdjCard,"{1} {2} Trade Good Card#(if {1} != 1 then s)#"
+CommodityCard,"{1} Commodity Card#(if {1} != 1 then s)#"
+CommodityAdjCard,"{1} {2} Commodity Card#(if {1} != 1 then s)#"
+Resource,"{1} Resource#(if {1} != 1 then s)#"
+ResourceAdj,"{1} {2} Resource#(if {1} != 1 then s)#"
+Influence,"{1} Influence"
+UnexhaustedPlanet,"{1} unexhausted planet#(if {1} != 1 then s)#"
+PublicObjective,"{1} Public Objective#(if {1} != 1 then s)#"
+SecretObjective,"{1} Secret Objective#(if {1} != 1 then s)#"
+AgendaCard,"{1} Agenda Card#(if {1} != 1 then s)#"
+AgendaAdjCard,"{1} {2} Agenda Card#(if {1} != 1 then s)#"
+DefaultAgenda,"Agenda Reveal:\nReveal @[AgendaCard,{1}] from the Agenda Deck for the next Agenda Phase."
+RollAgenda,"Agenda Reveal:\nRoll {1}d10 and divide the sum by 10, rounding up.  Reveal this number of Agenda Cards for the next Agenda Phase."
+TradeGoodAsResource,"Reveal and discard this card for @[Resource,{1}]."
+TradeGoodAsInfluence,"Reveal and discard this card for @[Influence,{1}]."
+TradeGoodAsBoth,"Reveal and discard this card for @[Resource,{1}] or @[Influence,{1}]."
+TradeGoodInfluenceAgenda,"This influence may be used during the Agenda Phase, including for voting."
+CommodityZero,"Reveal and give this card to the player being traded with.  The recipient may choose to immediately discard this card."
+CommodityHalf,"Reveal and discard this card to have the opponent draw @[TradeGoodCard,1] for each pair of HALF COMMODITY cards simultaneously transacted."
+CommodityDefault,"Reveal and discard this card to have the opponent draw @[TradeGoodCard,{1},2]."
+CommodityDiscard,"Reveal and discard this card with @[CommodityAdjCard,{1},more] to draw @[TradeGoodCard,{1}]."
+CommodityMutual,"Additionally:   Draw @[TradeGoodCard,{1}]."
+CommodityReplacement,"Additionally:   Draw @[CommodityAdjCard,{1},new]."
+ShipCost,"#(switch;{1};Mech;1;Destroyer;1;Cruiser;1;Carrier;1;Dreadnought;2;Flagship;2;War Sun;4;#default;2)#"
+ShipPrice,"During this PRODUCTION, the first {1} you produce costs @[ShipCost,{1}] {2}."
+UnitPrice,"During this PRODUCTION, each {1} you produce creates 1 {2} unit."
+ItOrThem,"#(if {1} != 1 then them else it)#"
+EventSemi,"\n\n- Keep this card in play until the next Event Phase."
+EventPerm,"\n\n- Keep this card in play."
