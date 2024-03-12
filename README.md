@@ -58,4 +58,6 @@ They are made at 600 DPI, plus assuming 72 pixel edges on each side for card cut
 ## Licensing
 This project was origally created by Mark Vabulas, in March 2024.
 The canonical hosting location is https://github.com/MarkVabulas/TI4Events/.
-This work is licensed under a Creative Commons Attribution 4.0 International License.  
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+This project has endeavored to fully comply with [Asmodee's Guidelines for Community Use of Intellectual Property](https://images-cdn.fantasyflightgames.com/filer_public/fa/b1/fab15a15-94a6-404c-ab86-6a3b0e77a7a0/ip_policy_031419_final_v21.pdf).
