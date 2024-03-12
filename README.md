@@ -35,10 +35,10 @@ This fan-made unofficial expansion consists of 152 new Commodity Cards, 180 new 
 - Some Commodities are played as Actions now, instead of only Transacting. They may be pledged in a Transaction, but are therefore given to the opponent instead of played during the Transaction.
 
 ## Card Previews
-![Manual Back](/Previews/Manual_Back_Preview.jpg) ![Manual Front](/Previews/Manual_Front_Preview.jpg)
-![Event Back](/Previews/Event_Back_Preview.jpg) ![Event Front](/Previews/Event_Front_Preview.jpg)
-![TradeGood Back](/Previews/TradeGood_Back._Preview.jpg) ![TradeGood Front](/Previews/TradeGood_Front_Preview.jpg)
-![Commodity Back](/Previews/Commodity_Back_Preview.jpg) ![Commodity Front](/Previews/Commodity_Front_Preview.jpg)
+![Manual Back](/Previews/Manual_Back_Preview.jpg) ![Manual Front](/Previews/Manual_Front_Preview.jpg)<br>
+![Event Back](/Previews/Event_Back_Preview.jpg) ![Event Front](/Previews/Event_Front_Preview.jpg)<br>
+![TradeGood Back](/Previews/TradeGood_Back._Preview.jpg) ![TradeGood Front](/Previews/TradeGood_Front_Preview.jpg)<br>
+![Commodity Back](/Previews/Commodity_Back_Preview.jpg) ![Commodity Front](/Previews/Commodity_Front_Preview.jpg)<br>
 
 ## How to edit
 Here are a series of files which are opened in CardMaker, which you can find at https://github.com/nhmkdev/cardmaker.
