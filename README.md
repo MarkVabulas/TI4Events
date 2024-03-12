@@ -1,4 +1,4 @@
-# Thanks for checking out this TI4 Event and Trade overhaul!
+# Fan-made Unofficial TI4 Event and Trade overhaul
 
 ## How to edit:
 Here are a series of files which are opened in CardMaker, which you can find at https://github.com/nhmkdev/cardmaker.
@@ -14,3 +14,7 @@ Inside the Output folder, you can find the final .png files created from an Imag
 ## Basic info:
 These cards are supposed to be approximately 43mm x 65mm (1.614 inches x 2.559 inches).
 They are made at 600 DPI, plus assuming 72 pixel edges on each side for card cutting, this makes 1144 pixel by 1644 pixel cards which will have their edges cut off.
+
+## Licensing
+This project was origally created by Mark Vabulas, in March 2024.  The canonical hosting location is https://github.com/MarkVabulas/TI4Events/.
+This work is licensed under a Creative Commons Attribution 4.0 International License.  
